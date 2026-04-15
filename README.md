@@ -30,6 +30,8 @@ csc4005_lab1_neu_mlp_starter/
     └── utils.py
 ```
 
+Xem thêm bản tóm tắt cấu trúc và luồng làm việc tại [docs/PROJECT_STRUCTURE.md](docs/PROJECT_STRUCTURE.md).
+
 ## 2. Cài đặt
 ```bash
 conda activate csc4005-dl
